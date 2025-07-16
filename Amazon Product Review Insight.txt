@@ -1,0 +1,43 @@
+Amazon Product Review Analysis Insights
+
+Objective:
+To explore Amazon product data and uncover insights that can guide product strategy, marketing, and customer engagement.
+
+Overview:
+- Total Products: 1,465
+- Fields: 16 columns including product name, main_category, actual_price, discount_percentage, rating, and rating_count, and so on
+
+Key Insights:
+
+1. Top Categories by Volume:
+   - The category with the highest number of listed products is Home & Kitchen, followed by Electronics and Toys & Games.
+
+2. Average Discount by Category:
+   - Categories like HomeImprovement and Beauty offer the highest average discounts (over 50%).
+
+3. Most Reviewed Products:
+   - A few products (especially in Electronics) dominate review counts, with the top product having over 9,000 reviews.
+
+4. Product Ratings Distribution:
+   - Most products are rated between 3.5 to 5.0, with 4.0 and 4.5 being the most common.
+
+5. Price Range Distribution:
+   - The majority of products fall into the ₦200–₦500 price range.
+
+6. Revenue Potential:
+   - Based on actual_price × rating_count, the category with the highest revenue potential is Electronics.
+
+7. Top Performing Products:
+   - The top 5 products by combined score (rating × rating_count) reflect high trust and popularity.
+
+8. Discount vs. Rating:
+   - No strong correlation observed — high discounts don’t always result in higher ratings.
+
+Tools Used:
+- Microsoft Excel (for cleaning, pivot tables, charts, and dashboard)
+
+Deliverables:
+- Cleaned Dataset
+- Dashboard (Excel)
+- Pivot Table Analysis
+- Summary Report
